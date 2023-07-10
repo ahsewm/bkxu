@@ -20,7 +20,7 @@
 <br>
 <h1>Click Photo<h1>
 <br>
-<a href="https://shorturl.at/dvwV1/"><img width=93 src="https://i.ibb.co/N20jcPy/IMG-20220328-115849-882.jpg"alt="my photo"></img></a>
+<a href="https://www.airtel.in/"><img width=93 src="https://i.ibb.co/N20jcPy/IMG-20220328-115849-882.jpg"alt="my photo"></img></a>
 <br>
 <!--2 number heading tag-->
 <h2>Click Video</h2>
